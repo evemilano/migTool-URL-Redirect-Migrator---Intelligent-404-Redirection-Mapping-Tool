@@ -1,0 +1,12 @@
+pandas
+numpy
+httpx
+fuzzywuzzy
+Levenshtein
+scipy
+spacy
+joblib
+scikit-learn
+bertopic
+jellyfish
+difflib
